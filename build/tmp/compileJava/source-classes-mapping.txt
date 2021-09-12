@@ -1,11 +1,18 @@
-clarke/novacyt/application/view/ApplicationFrame.java
- clarke.novacyt.application.view.ApplicationFrame
-clarke/novacyt/application/listeners/ReadFromJarListener.java
- clarke.novacyt.application.listeners.ReadFromJarListener
- clarke.novacyt.application.listeners.ReadFromJarListener$1
+clarke/novacyt/application/model/Readings.java
+ clarke.novacyt.application.model.Readings
+clarke/novacyt/application/Application.java
+ clarke.novacyt.application.Application
 clarke/novacyt/application/listeners/OpenFileListener.java
  clarke.novacyt.application.listeners.OpenFileListener
 clarke/novacyt/application/utils/JarFileUtils.java
  clarke.novacyt.application.utils.JarFileUtils
-clarke/novacyt/application/Application.java
- clarke.novacyt.application.Application
+clarke/novacyt/application/threads/LoadReadingCallableTask.java
+ clarke.novacyt.application.threads.LoadReadingCallableTask
+clarke/novacyt/application/view/ApplicationFrame.java
+ clarke.novacyt.application.view.ApplicationFrame
+clarke/novacyt/application/threads/GetReadingTask.java
+ clarke.novacyt.application.threads.GetReadingTask
+clarke/novacyt/application/listeners/ReadFromJarListener.java
+ clarke.novacyt.application.listeners.ReadFromJarListener
+clarke/novacyt/application/threads/ApplicationExecutor.java
+ clarke.novacyt.application.threads.ApplicationExecutor
