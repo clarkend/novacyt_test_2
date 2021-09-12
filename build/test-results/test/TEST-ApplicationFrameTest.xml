@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApplicationFrameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-12T11:11:28" hostname="clarke-pc" time="0.365">
+  <properties/>
+  <testcase name="testATextAreaInitialisationDefaults" classname="ApplicationFrameTest" time="0.365"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
